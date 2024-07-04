@@ -1,0 +1,330 @@
+{
+    "pattern": {
+        "panels": {
+            "back": {
+                "vertices": [
+                    [
+                        23.666666666666657,
+                        30.0
+                    ],
+                    [
+                        -23.666666666666664,
+                        30.0
+                    ],
+                    [
+                        -27.25,
+                        15.00000000000001
+                    ],
+                    [
+                        -41.66689248359823,
+                        -19.65511258354475
+                    ],
+                    [
+                        41.66689248359822,
+                        -19.65511258354475
+                    ],
+                    [
+                        27.249999999999986,
+                        15.00000000000001
+                    ]
+                ],
+                "edges": [
+                    {
+                        "endpoints": [
+                            3,
+                            4
+                        ],
+                        "curvature": [
+                            0.5,
+                            -0.31548250896410157
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            4,
+                            5
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            0,
+                            1
+                        ],
+                        "curvature": [
+                            0.5000000000000001,
+                            0.10000000000000003
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            2,
+                            3
+                        ]
+                    }
+                ],
+                "translation": [
+                    -0.17666666666666703,
+                    -35.00133333333333,
+                    -15.51
+                ],
+                "rotation": [
+                    180.0,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "front": {
+                "vertices": [
+                    [
+                        -16.33333333333332,
+                        30.0
+                    ],
+                    [
+                        16.33333333333333,
+                        30.0
+                    ],
+                    [
+                        19.916666666666657,
+                        15.00000000000001
+                    ],
+                    [
+                        33.23433401502548,
+                        -20.09221214828512
+                    ],
+                    [
+                        -33.23433401502545,
+                        -20.09221214828512
+                    ],
+                    [
+                        -19.916666666666654,
+                        15.00000000000001
+                    ]
+                ],
+                "edges": [
+                    {
+                        "endpoints": [
+                            4,
+                            3
+                        ],
+                        "curvature": [
+                            0.5,
+                            0.4524014212195264
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            3,
+                            2
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            2,
+                            1
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            1,
+                            0
+                        ],
+                        "curvature": [
+                            0.5000000000000003,
+                            0.10000000000000003
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            0,
+                            5
+                        ]
+                    },
+                    {
+                        "endpoints": [
+                            5,
+                            4
+                        ]
+                    }
+                ],
+                "translation": [
+                    0.17666666666666703,
+                    -35.00133333333333,
+                    18.759999999999998
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        "stitches": [
+            [
+                {
+                    "edge": 2,
+                    "panel": "back"
+                },
+                {
+                    "edge": 4,
+                    "panel": "front"
+                }
+            ],
+            [
+                {
+                    "edge": 1,
+                    "panel": "back"
+                },
+                {
+                    "edge": 5,
+                    "panel": "front"
+                }
+            ],
+            [
+                {
+                    "edge": 5,
+                    "panel": "back"
+                },
+                {
+                    "edge": 1,
+                    "panel": "front"
+                }
+            ],
+            [
+                {
+                    "edge": 4,
+                    "panel": "back"
+                },
+                {
+                    "edge": 2,
+                    "panel": "front"
+                }
+            ]
+        ],
+        "panel_order": [
+            "back",
+            "front"
+        ]
+    },
+    "parameters": {
+        "wideness": {
+            "influence": [
+                {
+                    "edge_list": [
+                        {
+                            "direction": "both",
+                            "id": 0
+                        }
+                    ],
+                    "panel": "front"
+                },
+                {
+                    "edge_list": [
+                        {
+                            "direction": "both",
+                            "id": 0
+                        }
+                    ],
+                    "panel": "back"
+                }
+            ],
+            "range": [
+                0.65,
+                1.8
+            ],
+            "type": "length",
+            "value": 1
+        },
+        "length": {
+            "influence": [
+                {
+                    "edge_list": [
+                        {
+                            "direction": "end",
+                            "id": 5
+                        },
+                        {
+                            "direction": "start",
+                            "id": 1
+                        }
+                    ],
+                    "panel": "front"
+                },
+                {
+                    "edge_list": [
+                        {
+                            "direction": "end",
+                            "id": 5
+                        },
+                        {
+                            "direction": "start",
+                            "id": 1
+                        }
+                    ],
+                    "panel": "back"
+                }
+            ],
+            "range": [
+                0.45,
+                1.7
+            ],
+            "type": "length",
+            "value": 1
+        },
+        "curve_front": {
+            "influence": [
+                {
+                    "edge_list": [
+                        0
+                    ],
+                    "panel": "front"
+                }
+            ],
+            "range": [
+                -5.5,
+                5.5
+            ],
+            "type": "curve",
+            "value": 1
+        },
+        "curve_back": {
+            "influence": [
+                {
+                    "edge_list": [
+                        0
+                    ],
+                    "panel": "back"
+                }
+            ],
+            "range": [
+                -5.5,
+                5.5
+            ],
+            "type": "curve",
+            "value": 1
+        }
+    },
+    "parameter_order": [
+        "length",
+        "wideness",
+        "curve_front",
+        "curve_back"
+    ],
+    "properties": {
+        "curvature_coords": "relative",
+        "normalize_panel_translation": false,
+        "normalized_edge_loops": true,
+        "units_in_meter": 100
+    }
+}

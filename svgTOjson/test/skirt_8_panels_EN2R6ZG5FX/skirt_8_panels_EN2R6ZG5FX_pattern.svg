@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="390px" version="1.2" width="2076px">
+  <defs/>
+  <path d="M 60 330 Q 156.0 306.0011481400324 252 330 L 177 102 L 171 60 Q 156.0 63.0 141 60 L 135 102 L 60 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="131.0" y="167.0">right_0</text>
+  <path d="M 312 330 Q 408.0 306.0011481400324 504 330 L 429 102 L 423 60 Q 408.0 63.0 393 60 L 387 102 L 312 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="383.0" y="167.0">right_1</text>
+  <path d="M 564 330 Q 660.0 306.0011481400324 756 330 L 681 102 L 675 60 Q 660.0 63.0 645 60 L 639 102 L 564 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="635.0" y="167.0">right_2</text>
+  <path d="M 816 330 Q 912.0 306.0011481400324 1008 330 L 933 102 L 927 60 Q 912.0 63.0 897 60 L 891 102 L 816 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="887.0" y="167.0">back</text>
+  <path d="M 1068 330 Q 1164.0 306.0011481400324 1260 330 L 1185 102 L 1179 60 Q 1164.0 63.0 1149 60 L 1143 102 L 1068 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1139.0" y="167.0">front</text>
+  <path d="M 1320 330 Q 1416.0 306.0011481400324 1512 330 L 1437 102 L 1431 60 Q 1416.0 63.0 1401 60 L 1395 102 L 1320 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1391.0" y="167.0">left_0</text>
+  <path d="M 1572 330 Q 1668.0 306.0011481400324 1764 330 L 1689 102 L 1683 60 Q 1668.0 63.0 1653 60 L 1647 102 L 1572 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1643.0" y="167.0">left_1</text>
+  <path d="M 1824 330 Q 1920.0 306.0011481400324 2016 330 L 1941 102 L 1935 60 Q 1920.0 63.0 1905 60 L 1899 102 L 1824 330 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1895.0" y="167.0">left_2</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="318px" version="1.2" width="1548px">
+  <defs/>
+  <path d="M 60 258 L 120 258 L 192 60 L 90 60 Q 96.3 126.0 60 132 Q 72.6 138.3 60 258 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="79.4" y="156.6">Rback</text>
+  <path d="M 324 258 L 384 258 Q 371.4 138.3 384 132 Q 351.3 124.5 354 60 L 252 60 L 324 258 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="314.6" y="156.6">Rfront</text>
+  <path d="M 444 78 L 483 78 L 522 78 L 522 60 L 444 60 L 444 78 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="458.0" y="73.8">wb_back</text>
+  <path d="M 582 78 L 621 78 L 660 78 L 660 60 L 582 60 L 582 78 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="596.0" y="73.8">wb_front</text>
+  <path d="M 720 147 L 882 147 L 882 132 Q 849.6 115.2 870 60 L 843 60 Q 801.0 107.53618989111226 759 60 L 732 60 Q 752.4 115.2 720 132 L 720 147 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="776.0" y="102.75">top_back</text>
+  <path d="M 942 147 L 1104 147 L 1104 132 Q 1071.6000000000001 115.2 1092 60 L 1065 60 L 1023 84 L 981 60 L 954 60 Q 974.4 115.2 942 132 L 942 147 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="998.0" y="101.0">top_front</text>
+  <path d="M 1236 258 L 1296 258 Q 1283.4 138.3 1296 132 Q 1259.7 126.0 1266 60 L 1164 60 L 1236 258 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1226.6" y="156.6">Lback</text>
+  <path d="M 1356 258 L 1416 258 L 1488 60 L 1386 60 Q 1388.7 124.5 1356 132 Q 1368.6 138.3 1356 258 z" fill="rgb(255,217,194)" stroke="black"/>
+  <text fill="rgb(9,33,173)" font-size="25" x="1375.4" y="156.6">Lfront</text>
+</svg>

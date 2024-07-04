@@ -1,0 +1,20 @@
+{
+  "generator": {
+    "config": {},
+    "stats": {}
+  },
+  "size": 1,
+  "system_info": {
+    "GPU": [
+      "AMD Radeon(TM) Graphics"
+    ],
+    "architecture": "AMD64",
+    "platform": "Windows",
+    "platform-release": "10",
+    "platform-version": "10.0.22631",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "ram": "31 GB"
+  },
+  "templates": "C:\\Users\\18515\\desktop\\SP\\svgTOjson\\test\\jumpsuit_sleeveless_template_specification.json",
+  "to_subfolders": true
+}
